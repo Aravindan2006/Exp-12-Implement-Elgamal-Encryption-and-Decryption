@@ -1,4 +1,7 @@
 # Exp-12-Implement-Elgamal-Encryption-and-Decryption
+### REG NO : 212223240012
+### NAME : Aravindan D
+
 ## AIM:
 To encrypt and decrypt a message using the ElGamal encryption algorithm.
 
@@ -96,7 +99,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![cryp exp12](https://github.com/user-attachments/assets/c3636bbf-27fc-4bd4-8e48-31b7b6f70209)
+![WhatsApp Image 2024-10-23 at 15 52 59_cd4a71e4](https://github.com/user-attachments/assets/13d10c7d-31fb-41de-bb5b-cb2d73c4a8e8)
+
 
 
 
